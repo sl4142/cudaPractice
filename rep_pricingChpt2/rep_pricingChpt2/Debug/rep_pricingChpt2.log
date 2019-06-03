@@ -1,0 +1,3 @@
+﻿  rep_pricingChpt2.cpp
+c:\users\sl414\source\repos\rep_pricingchpt2\rep_pricingchpt2\rep_pricingchpt2.cpp(27): warning C4244: 'initializing': conversion from 'time_t' to 'double', possible loss of data
+  rep_pricingChpt2.vcxproj -> C:\Users\sl414\source\repos\rep_pricingChpt2\Debug\rep_pricingChpt2.exe
